@@ -374,7 +374,14 @@ input:focus, textarea:focus, *:required:focus{border-color:#8DAA520 !important;}
         transform: scale(1) translateY(-50%);
     }
 }
-
+.button {
+	background-color: #daa520;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
 
 .imgover img {
     width: 100%;
