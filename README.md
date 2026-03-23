@@ -1,60 +1,56 @@
 # Hi, I'm Emmanuel Olanrewaju 👋
-### AI System Engineer | Full-Stack RAG Architect | HND Computer Science
+### AI System Engineer | RAG Architect | HND Computer Science
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=header&text=AI%20System%20Engineering&fontSize=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=060b16&height=200&section=header&text=Emmanuel%20Olanrewaju&fontSize=50&animation=fadeIn)
 
----
-
-### 🚀 The Engineering Focus
-I specialize in bridging the gap between **Raw Data Analysis** and **Production-Ready AI Systems**. Transitioning from 2+ years of retail analytics to engineering complex LLM architectures.
-
-- 🏗️ **Currently Building:** Production-grade RAG systems with Hybrid Search (Dense + Sparse).
-- 🎓 **Academic:** Higher National Diploma (HND) in Computer Science.
-- 🛠️ **The Goal:** Building "Thinking" systems that solve real-world business problems, not just chatbots.
+> **"I build reliable AI systems that solve real-world problems."**
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Professional Engineering Focus
+I specialize in designing and developing AI-powered systems that turn ideas into practical, scalable products. My expertise lies in **Machine Learning Engineering**, **Model Integration**, and **Automation Workflows**.
+
+- 🔭 **Currently Building:** Production-ready Hybrid Search (Dense + Sparse) architectures.
+- ⚙️ **Systems Logic:** Focused on MLOps fundamentals, model lifecycle, and clean system design.
+- 🎓 **Academic:** Pursuing Higher National Diploma (HND) in Computer Science.
+
+---
+
+### 🧰 Technical Stack
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **AI Systems** | **Qdrant**, Hybrid Search (BM25 + Dense), RAG Evaluation, Jina AI, OpenAI |
-| **Backend** | **Python**, FastAPI, Docker, Git, REST APIs |
-| **Data Engine** | SQL (Query Optimization), Pandas, NumPy, Data Cleaning/ETL |
-| **Analysis** | Power BI, Excel (DAX/M), Statistical Analysis |
+| **AI Systems** | **Qdrant (Vector DB)**, Hybrid Search, BM25, Jina Embeddings, LLM Integration |
+| **Core Engineering** | **Python**, FastAPI, Docker, Git, RESTful Architecture |
+| **Data Engine** | SQL, Pandas, NumPy, Data Cleaning, ETL Workflows |
+| **Methods** | System Design, Problem Solving, Critical Thinking |
 
 ---
 
-### 🌟 Featured AI Engineering Projects
+### 🌟 Featured AI Systems
 
-#### [🤖 Carryofy Bot - Support Intelligence](https://github.com/emxelux/carryofy-bot)
-An AI-driven support system for returns and shipping.
-- **System Architecture:** Built with **FastAPI** and **Streamlit**.
-- **Vector Engine:** Implemented **Hybrid Search in Qdrant** using Jina-v2 (Dense) and BM25 (Sparse) for 100% accuracy on Order IDs.
-- **Evaluation:** Integrated RAG metrics to monitor and reduce hallucination rates.
+#### [🤖 Carryofy Bot](https://github.com/emxelux/carryofy-bot)
+An intelligent support system engineered for high-precision retrieval.
+- **Key Feature:** Implemented **Hybrid Search** in Qdrant to merge semantic understanding with exact-match keyword retrieval.
+- **Tech:** FastAPI, Streamlit, Qdrant.
 
-#### [📈 Retail Intelligence Pipeline](https://emxelux.vercel.app)
-*Originally a Data Analyst project, now being refactored into an AI-driven insight agent.*
-- Managed 2-year longitudinal datasets with 100% integrity.
-- Transitioning the dashboard into an **Agentic SQL tool** that allows stakeholders to query sales trends in natural language.
+#### [📈 Technical Analytics Dashboard](https://emxelux.vercel.app)
+A legacy data project currently being refactored with **Agentic SQL** capabilities.
+- 2+ Years of technical experience managing complex datasets with 100% integrity.
 
 ---
 
-### 📊 Engineering Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=emxelux&show_icons=true&theme=tokyonight&hide_border=true" alt="Emmanuel's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emxelux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Engineering Metrics
+![Emmanuel's Stats](https://github-readme-stats.vercel.app/api?username=emxelux&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 - **Portfolio:** [emxelux.vercel.app](https://emxelux.vercel.app)
-- **LinkedIn:** [linkedin.com/in/emxelux](https://www.linkedin.com/in/emxeluxe)
+- **LinkedIn:** [linkedin.com/in/emxeluxe](https://www.linkedin.com/in/emxeluxe)
 - **Email:** abiodunea83@gmail.com
-- **Phone:** +234 907 146 8264
 
 ---
 <p align="center">
-  <i>"Coder by nature. Engineer by trade."</i>
+  <i>"I don't just write code; I engineer intelligence."</i>
 </p>
