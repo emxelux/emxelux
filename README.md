@@ -1,5 +1,5 @@
 # Hi, I'm Emmanuel Olanrewaju 👋  
-### AI Engineer | ML Systems & RAG | HND Computer Science  
+### AI Engineer | ML Systems & RAG | Computer Science  
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=060b16&height=220&section=header&text=Emmanuel%20Olanrewaju&fontSize=45&animation=fadeIn&fontAlignY=35)
 
@@ -10,19 +10,19 @@
 ---
 
 ## 🚀 About Me  
-> **I design and build reliable AI systems that turn data into practical, real-world solutions.**
+> **I design and build reliable AI systems that solve real-world problems.**
 
-I focus on developing **scalable AI applications**, combining machine learning, retrieval systems, and backend engineering to create systems that are **usable, deployable, and efficient**.
+I focus on developing **scalable AI applications**, combining AI Agents, retrieval systems, and backend engineering to create systems that are **usable, deployable, and efficient**.
 
 ---
 
 ## 🛠️ Engineering Focus  
 
 - 🧠 **AI Systems Development:** ML models + LLM-powered applications  
-- 🔍 **Retrieval Systems:** Hybrid Search (Dense + Sparse, BM25 + Embeddings)  
-- ⚙️ **Backend Engineering:** FastAPI-based AI services  
-- 🔁 **Automation:** Turning workflows into intelligent systems  
 - 🧩 **System Design:** Clean, modular architectures  
+- 🔍 **Retrieval Systems:** Hybrid Search (Dense + Sparse, BM25 + Embeddings)  
+- 🔁 **Automation:** Turning workflows into intelligent systems  
+- ⚙️ **Backend Engineering:** FastAPI-based AI services  
 
 ---
 
@@ -43,24 +43,17 @@ I focus on developing **scalable AI applications**, combining machine learning, 
 
 ## 🌟 Featured Projects  
 
-### 🤖 Carryofy AI Assistant  
-> Intelligent retrieval system for precise question answering  
+### 🤖 Documind  
+> Intelligent retrieval system for precise question answering for students 
 
 - Hybrid Search (**Dense + Sparse**) for better accuracy  
 - Context-aware AI responses  
 - Built with scalable backend architecture  
 
-**Tech Stack:** FastAPI • Qdrant • Streamlit  
+**Tech Stack:** Python • FastAPI • Qdrant • HTML • CSS • Javascript
 
 ---
 
-### 📊 Analytics → AI System (Evolving Project)  
-> Transitioning from data analysis to AI-powered insights  
-
-- Built structured data workflows  
-- Currently evolving into **Agentic AI / AI-assisted analytics**  
-
----
 
 ## 📊 GitHub Metrics  
 
