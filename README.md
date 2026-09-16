@@ -1,7 +1,7 @@
 # Hi, I'm Emmanuel Olanrewaju 👋  
 ### AI Engineer | ML Systems & RAG | Computer Science  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=#808080&height=220&section=header&text=Emmanuel%20Olanrewaju&fontSize=45&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=#000000&height=220&section=header&text=Emmanuel%20Olanrewaju&fontSize=45&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Building+Intelligent+Systems;RAG+%7C+MLOps+%7C+APIs;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
